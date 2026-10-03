@@ -1,4 +1,4 @@
-![Org Alfa]([https://github.com/ORG-ALFA/.github/blob/main/profile/banner.png?raw=true)](https://github.com/OrgAlfa/.github/blob/be1f640c6c8f186f9047ec93d060932859e50295/banner.png)
+![Org Alfa]([https://github.com/OrgAlfa/.github/blob/main/profile/banner.png?raw=true)
 
 # Org Alfa
 
